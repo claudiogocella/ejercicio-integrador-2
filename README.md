@@ -1,2 +1,2 @@
-# ejercicio-integrador-2
+# ejercicio-integrador
 Created with CodeSandbox

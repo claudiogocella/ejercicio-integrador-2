@@ -1,0 +1,65 @@
+body {
+  /*background-color: thistle; */
+  background-image: url ("src/css/pagina-papel.jpg");
+  }
+
+/*Color de fondo para "lista"*/
+.bloque1
+text align: left
+border: 5px  
+border-style: solidcolor
+border-color: blueviolet
+background-color: lightblue;
+
+/*Selector tag*/
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: darkcyan;
+  font-size: 20px;
+ }
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+  font-style: italic;
+  }
+
+h1 {
+  color: darkblue;
+  text-align: center;
+ }
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: orange;
+  font-size: 20px;
+ }
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+ }
+
+p {
+  text-align: justify;
+ }
+
+.lista-desordenada {
+  list-style-type: square;
+  background-color: yellow;
+  border: 1px;
+  border-style: solid
+
+}
+
+/*ver página 35, clase 2 para poner texto al lado de la imagen (flexbox)*/
